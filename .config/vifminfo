@@ -1,0 +1,119 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/jacob/
+	..
+1566235045
+'a
+	/etc/sv
+	uuidd
+1566235563
+'j
+	/home/jacob
+	..
+1566350069
+'k
+	/home/jacob/.config/mpd
+	..
+1566241691
+'z
+	/home/jacob/.config/vifm
+	..
+1566235045
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/jacob/Downloads
+	voidrice-archi3
+1
+d/home/jacob/Downloads/voidrice-archi3
+	.icons
+2
+d/home/jacob/Downloads/voidrice-archi3/.icons
+	default
+1
+d/home/jacob/Downloads/voidrice-archi3/.icons/default
+	index.theme
+1
+d/home/jacob
+	Downloads
+1
+d/home/jacob/Downloads
+	RockeyJacobResume.pdf
+2
+d/home/jacob
+	Downloads
+1
+d/home/jacob/Downloads
+	voidrice-archi3
+1
+d/home/jacob/Downloads/voidrice-archi3
+	voidrice-archi3
+1
+d/home/jacob/Downloads/voidrice-archi3/voidrice-archi3
+	LICENSE
+1
+d/home/jacob/Downloads/voidrice-archi3
+	voidrice-archi3
+1
+d/home/jacob/Downloads
+	voidrice-archi3
+1
+d/home/jacob/Downloads/voidrice-archi3
+	README.md
+3
+d/home/jacob
+	st
+4
+d/home/jacob/st
+	config.h
+6
+
+# Right window history (oldest to newest):
+D/home/jacob
+	..
+0
+
+# Command line history (oldest to newest):
+:mkdir .mpdscribble
+:!vim mpdscribble.conf
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/jacob/.local/share/vifm/Trash/000_ch02.pdf
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/jacob/.local/share/vifm/Trash/000_mpd.conf
+	/home/jacob/.config/mpd/mpd.conf
+t/home/jacob/.local/share/vifm/Trash/000_bg.jpg
+	/home/jacob/Downloads/bg.jpg
+t/home/jacob/.local/share/vifm/Trash/000_bg.JPG
+	/home/jacob/Downloads/bg.JPG
+t/home/jacob/.local/share/vifm/Trash/000_.bashrc
+	/home/jacob/.bashrc
+t/home/jacob/.local/share/vifm/Trash/000_.inputrc2
+	/home/jacob/.inputrc2
+t/home/jacob/.local/share/vifm/Trash/000_wall.png
+	/home/jacob/.config/wall.png
+t/home/jacob/.local/share/vifm/Trash/000_DSC_0085.JPG
+	/home/jacob/Downloads/DSC_0085.JPG
+t/home/jacob/.local/share/vifm/Trash/000_ch02.pdf
+	/home/jacob/Downloads/ch02.pdf
