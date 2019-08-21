@@ -7,3 +7,11 @@ This document is for me to take note of the steps I've taken to get void working
 - Install `git` for gitting and `make` for making
 - Installing an X.org server
   - Packages I used include `xorg`
+- `abook`
+- `alsa-utils`
+- `pulsemixer`
+- `ffmpeg`
+- `dmenu`
+- `calcurse`
+- `gcc` The GNU C and C++ compiler; comes in handy
+- `redshift`
